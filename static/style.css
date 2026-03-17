@@ -1,0 +1,35 @@
+body {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background: #0f1117;
+}
+.card {
+  background: #1a1d27;
+  padding: 2rem 3rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 24px rgba(0, 0, 0, 0.4);
+  text-align: center;
+}
+h1 {
+  margin: 0 0 0.5rem;
+  font-size: 2.5rem;
+  color: #e2e8f0;
+}
+p {
+  color: #718096;
+  font-size: 1rem;
+}
+.instance {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.3rem 0.8rem;
+  background: #1e3a5f;
+  color: #63b3ed;
+  border-radius: 20px;
+  font-size: 1.5rem;
+  font-weight: 600;
+}
